@@ -10,6 +10,8 @@ This project was completed as part of my data engineering studies and organized 
 
 ## Architecture
 
+![Snowflake SCD Type 1 Customer Pipeline Architecture](diagrams/snowflake-scd1-customer-pipeline-architecture.png)
+
 ```text
 Local CSV files
 → Python upload script
